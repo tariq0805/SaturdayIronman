@@ -29,10 +29,17 @@ public class Singleton {
 	{
 		System.out.println(" Demo III method for Singleton Class");
 	}
+	
+	// git changes
+		// changes for Git Pull request practice
+	
+	
 	// Singleton is a  class that can have only one object.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
 
+	
+	
 }
